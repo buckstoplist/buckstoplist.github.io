@@ -2,11 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/buckstoplist/buckstoplist.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-```{r, echo = FALSE}
+```
 print("Hello World")
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Other Information for the Buckstop Can be Found Here! [Buckstop Main Website](https://buck-stop-butcher-shop.business.site/).
 
 ### Is There an Issue?
 
