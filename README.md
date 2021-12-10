@@ -1,6 +1,3 @@
----
-output: html_document
----
 
 ## Buckstop Deer Status List
 
