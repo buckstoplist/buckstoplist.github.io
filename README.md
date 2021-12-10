@@ -1,6 +1,6 @@
 
 ## Buckstop Deer Status List
-![Deer](C:\Users\rdemk\OneDrive\Pictures\deer.jpeg)
+
 Other Information for the Buckstop Can be Found Here! [Buckstop Main Website](https://buck-stop-butcher-shop.business.site/).
 
 ### Is There an Issue?
