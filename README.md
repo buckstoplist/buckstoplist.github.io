@@ -3,8 +3,34 @@
 
 You can use the [editor on GitHub](https://github.com/buckstoplist/buckstoplist.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-| Deer Number | Status | Price |
-|------|------|------|
+|  # | Status  | Price  |
+|---|---|---|
+| 1  | NA  |   |
+| 2  | NA  |   |
+| 3  | NA  |   |
+| 4  | NA |   |
+| 5  | NA  |   |
+| 6  | NA |   |
+| 7  |  NA |   |
+| 8  | NA|   |
+| 9  |  NA |   |
+|  10 |  NA |   |
+|  11 | NA |   |
+| 12  | NA  |   |
+| 13  |  NA |   |
+| 14  |   |   |
+|  15 |   |   |
+| 16  |   |   |
+| 17  |   |   |
+| 18  |   |   |
+| 19  |   |   |
+| 20  |   |   |
+| 21  |   |   |
+|  22 |   |   |
+| 23  |   |   |
+| 24  |   |   |
+| 25  |   |   |
+| 26  |   |   |
 |   |   |   |
 |   |   |   |
 |   |   |   |
@@ -478,32 +504,7 @@ You can use the [editor on GitHub](https://github.com/buckstoplist/buckstoplist.
 |   |   |   |
 |   |   |   |
 |   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+
 Other Information for the Buckstop Can be Found Here! [Buckstop Main Website](https://buck-stop-butcher-shop.business.site/).
 
 ### Is There an Issue?
